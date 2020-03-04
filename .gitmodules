@@ -1,0 +1,6 @@
+[submodule "CPP-ITMO"]
+	path = CPP-ITMO
+	url = https://github.com/nooowl/CPP-ITMO.git
+[submodule "SQL-AdventureWorks-ITMO"]
+	path = SQL-AdventureWorks-ITMO
+	url = https://github.com/nooowl/SQL-AdventureWorks-ITMO.git
